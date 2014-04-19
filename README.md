@@ -1,4 +1,0 @@
-saasBook
-========
-
-Rails test app
