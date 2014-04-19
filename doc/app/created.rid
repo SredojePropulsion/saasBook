@@ -1,0 +1,7 @@
+Sat, 19 Apr 2014 19:53:41 +0200
+README.rdoc	Sat, 19 Apr 2014 18:24:35 +0200
+app/controllers/application_controller.rb	Sat, 19 Apr 2014 18:24:35 +0200
+app/controllers/movies_controller.rb	Sat, 19 Apr 2014 19:21:50 +0200
+app/helpers/application_helper.rb	Sat, 19 Apr 2014 18:24:35 +0200
+app/helpers/movies_helper.rb	Sat, 19 Apr 2014 18:43:07 +0200
+app/models/movie.rb	Sat, 19 Apr 2014 18:45:42 +0200
